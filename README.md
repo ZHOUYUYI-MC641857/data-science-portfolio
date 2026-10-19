@@ -16,6 +16,5 @@ Hello! I am a student currently taking CISC7204 Data Science and Data Visualizat
 - **Research Question:** During the morning peak hours (6:00–10:00 AM) in Xiamen, in which specific regions and time periods is shared bicycle tidal imbalance most severe? What is the marginal effect of weather conditions on the degree of tidal imbalance?
 - **Visualization & Finding:**
   ![<img width="1660" height="1437" alt="temperature_change" src="https://github.com/user-attachments/assets/72e8bbae-a4dd-44e5-ade8-3c9174da9d33" />]
-  *This heatmap shows the net inflow/outflow of shared bicycles by parking zone clusters. It reveals a striking tidal mirror pattern: subway station areas experience severe vehicle deficits (blue) during 7:00-8:30 AM, while residential areas experience severe accumulation (red).*
 - **Project Repository:** []
 - **Project Status:** Ongoing
